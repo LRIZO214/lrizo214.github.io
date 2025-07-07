@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Charity Water – See Your Impact</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="overlay"></div>
+    <div class="logo">
+      <img src="img/water-can-transparent.png" width="60" height="60" alt="Charity Logo" />
+    </div>
+    <div class="hero-content">
+      <h1>See Your Impact.<br>Change Lives.</h1>
+      <p>Help mothers bring clean water home—donate today and be the reason a family’s life changes forever.</p>
+      <a href="#" class="btn">Donate Now</a>
+    </div>
+  </section>
+
+  <!-- Our Story Section -->
+  <section class="story">
+    <h2>Our Story</h2>
+    <p>
+      Our mission began with a single idea: that every human being deserves access to safe, clean drinking water. 
+      We work with local partners to build sustainable water projects that empower communities and change lives.
+    </p>
+  </section>
+
+  <!-- Real Impact Section -->
+  <section class="impact-story">
+    <h2>Real Impact: Meet Mariam</h2>
+    <div class="impact-content">
+      <img src="image1.png" width="500" height="250" alt="Amina smiling with clean water" class="impact-image">
+      <p>
+        Every morning, Mariam tied her baby to her back and set out on a long, dangerous walk to collect water.
+
+She fought through heat, rough terrain, and long lines at a distant, muddy source — just to bring home water that could make her family sick.
+
+This was her reality.
+And she was not alone.
+      </p>
+    </div>
+  </section>
+
+  <!-- Final Call to Action -->
+  <section class="call-to-action">
+    <h2>Make a Difference</h2>
+    <p>You can help more women like Mariam.
+Because when you bring clean water to one village, you transform hundreds of lives.</p>
+    <a href="#FED8C1" class="btn">Donate Now</a>
+  </section>
+
+</body>
+</html>
